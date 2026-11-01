@@ -1,4 +1,4 @@
-const CACHE='my-gym-plan-v2-6-pictograms-20261101';
+const CACHE='my-gym-plan-v2-7-compact-sets-20261101';
 const ASSETS=[
   "./",
   "./index.html",
