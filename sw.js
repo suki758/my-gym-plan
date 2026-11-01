@@ -1,9 +1,17 @@
-const CACHE='my-gym-plan-v2-5-readable-20261101';
+const CACHE='my-gym-plan-v2-6-pictograms-20261101';
 const ASSETS=[
   "./",
   "./index.html",
   "./manifest.webmanifest",
   "./icons/icon.svg",
+  "./pictograms/press.webp",
+  "./pictograms/row.webp",
+  "./pictograms/squat.webp",
+  "./pictograms/pallof.webp",
+  "./pictograms/hinge.webp",
+  "./pictograms/pulldown.webp",
+  "./pictograms/plank.webp",
+  "./pictograms/deadbug.webp",
   "./illustrations/deadbug-movement.webp",
   "./illustrations/deadbug-muscles.webp",
   "./illustrations/deadbug.webp",
